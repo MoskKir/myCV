@@ -1,0 +1,167 @@
+body {
+    font-family: 'Anonymous Pro', monospace;
+    
+}
+#tabs .tab {
+    display: inline-block;
+    padding: 5px 10px;
+    cursor: pointer;
+    position: relative;
+    z-index: 5;
+}
+#tabs .whiteborder {
+    border: 1px solid #000000;
+    border-bottom: 1px solid #ffffff;
+    border-radius: 10px 10px 0 0;
+}
+#tabs .tabContent {
+    border-top: 1px solid #000000;
+    position: relative;
+    top: -1px;
+    padding: 10px;
+    
+}
+#tabs .hide {
+    display: none;
+}
+#tabs .show {
+    display: block;
+}
+.myPhoto {
+    width: 100%;
+}
+h1 {
+    font-size: 21px;
+    font-weight: 800;
+     
+}
+h2 {
+    font-size: 18px;
+    font-weight: 800;
+    letter-spacing: 0.3em;    
+}
+h3 {
+    font-size: 15px;
+    font-weight: 800;
+    letter-spacing: 0.3em;
+}
+nav {
+    background-color: #000000;
+    color: #ffffff; 
+}
+nav ul {
+    list-style: none; 
+    margin: 0 10px; 
+    padding-left: 0; 
+}
+nav li {
+    display: inline;
+}
+nav li a {
+    color: #ffffff;
+}
+nav li a:hover {
+    background-color: #ffffff;
+    color: #000000;
+}
+.main {
+    margin-top: 50px;
+    margin-bottom: 20px;
+}
+.right-side-bar {
+    margin-top: 80px;
+}
+a:hover {
+    background: #000000;
+    text-decoration: none;
+}
+.right-side-bar{
+    /* position: fixed;
+    width: inherit;  */
+}
+span {
+    background-color: #000000;
+    color: #ffffff;
+}
+.item-list {
+    width: 150px;
+    height: 150px;
+    background-size: cover;
+}
+.item-1 { background-image: url(../img/DOMCart-1.jpg);}
+.item-1:hover { background-image: url(../img/DOMCart-2.jpg);}
+.item-2 { background-image: url(../img/LocalStorageForm-1.jpg);}
+.item-2:hover { background-image: url(../img/LocalStorageForm-2.jpg);}
+.item-3 { background-image: url(../img/todoJS-1.jpg);}
+.item-3:hover { background-image: url(../img/todoJS-2.jpg);}
+.item-4 { background-image: url(../img/email-1.jpg);}
+.item-4:hover { background-image: url(../img/email-2.jpg);}
+.item-5 { background-image: url(../img/Insurance-1.jpg);}
+.item-5:hover { background-image: url(../img/Insurance-2.jpg);}
+.item-6 { background-image: url(../img/weekBudget-1.jpg);}
+.item-6:hover { background-image: url(../img/weekBudget-2.jpg);}
+.item-7 { background-image: url(../img/json-api-1.jpg);}
+.item-7:hover { background-image: url(../img/json-api-2.jpg);}
+
+
+
+.education-list {
+    list-style-type: none;
+}
+/* Ahivments */
+.achievement{
+    background-color: #000000;
+    color: #ffffff;
+    padding: 20px;
+    
+}
+.achievement h4 {
+    font-size: 17px;
+    font-weight: 700;
+    margin: 0px;
+}
+.achievement p {
+    font-size: 12px;
+    margin: 0;
+}
+.achievement img {
+   position: relative;
+   weight: 50px;
+   height: 50px;
+   top: 30px;
+   left: -25px;
+}
+
+.slider {
+    width: 200px;
+    height: 200px;
+    position: relative;
+}
+.slide-1,
+.slide-2 {
+    width: 200px;
+    height: 200px;
+    overflow: hidden;
+    position: absolute;
+    top: 0;
+    left: 0;
+    transition: all ease 500ms;
+}
+.slide-1 {
+    background: yellow;
+}
+.slide-2 {
+    background: red;
+}
+
+.slide-1 img {
+    width: 100%;
+    height: 100%;       
+}
+.slide-2 img {
+    width: 100%;
+    height: 100%;       
+}
+time {
+    float: right;
+}
