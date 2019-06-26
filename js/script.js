@@ -1,11 +1,3 @@
-document.querySelector('.slider').onmousemove = function(event) {    
-    let x = event.offsetX;    
-    document.querySelector('.slide-2').style.width = x + 'px';
-}
-document.querySelector('.slider').onmouseleave = function(event) {
-    document.querySelector('.slide-2').style.width = '200px';
-}
-
 // Tabs
 let tab;
 let tabContent;
