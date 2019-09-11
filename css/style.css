@@ -83,20 +83,22 @@ span {
     height: 150px;
     background-size: cover;
 }
-.item-1 { background-image: url(../img/DOMCart-1.jpg);}
-.item-1:hover { background-image: url(../img/DOMCart-2.jpg);}
-.item-2 { background-image: url(../img/LocalStorageForm-1.jpg);}
-.item-2:hover { background-image: url(../img/LocalStorageForm-2.jpg);}
-.item-3 { background-image: url(../img/todoJS-1.jpg);}
-.item-3:hover { background-image: url(../img/todoJS-2.jpg);}
-.item-4 { background-image: url(../img/email-1.jpg);}
-.item-4:hover { background-image: url(../img/email-2.jpg);}
-.item-5 { background-image: url(../img/Insurance-1.jpg);}
-.item-5:hover { background-image: url(../img/Insurance-2.jpg);}
-.item-6 { background-image: url(../img/weekBudget-1.jpg);}
-.item-6:hover { background-image: url(../img/weekBudget-2.jpg);}
-.item-7 { background-image: url(../img/json-api-1.jpg);}
-.item-7:hover { background-image: url(../img/json-api-2.jpg);}
+.item-1 { background-image: url(../img/DOMcard.gif);}
+.item-2 { background-image: url(../img/LocalStorageForm.gif);}
+.item-3 { background-image: url(../img/todoJS.gif);}
+.item-4 { background-image: url(../img/EmailForm.gif);}
+.item-5 { background-image: url(../img/insurance.gif);}
+.item-6 { background-image: url(../img/weekBudget.gif);}
+.item-7 { background-image: url(../img/jsonAPI.gif);}
+.item-8 { background-image: url(../img/kinopoisk.gif);}
+.item-9 { background-image: url(../img/nameGen.gif);}
+.item-10 { background-image: url(../img/lirycs.gif);}
+.item-11 { background-image: url(../img/IndexDB.gif);}
+.item-12 { background-image: url(../img/filters.gif);}
+.item-13 { background-image: url(../img/cryptocurrencies.gif);}
+.item-14 { background-image: url(../img/eventInCity.gif);}
+.item-15 { background-image: url(../img/quiz.gif);}
+.item-16 { background-image: url(../img/loanBuildApp.gif);}
 
 
 
@@ -131,4 +133,24 @@ time {
     top: -20px;
     opacity: 1;
   }
+}
+.row {
+    margin-bottom: 30px;
+}
+.item-list {
+    margin-bottom: 30px;
+}
+.codewars-logo {
+    width: 15px;
+}
+
+.right-side-bar ul li {
+    list-style-type: none; /* Убираем маркеры */
+   }
+.right-side-bar ul {
+ margin-left: 0; /* Отступ слева в браузере IE и Opera */
+ padding-left: 0; /* Отступ слева в браузере Firefox, Safari, Chrome */
+}
+.codewars-badget {
+    margin-top: 15px;
 }
