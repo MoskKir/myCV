@@ -154,3 +154,12 @@ time {
 .codewars-badget {
     margin-top: 15px;
 }
+@media screen and (max-width: 768px) {
+    .item-list {
+        margin: 20px auto;
+        
+    }
+    .three {
+        text-align: center;
+    }
+}
