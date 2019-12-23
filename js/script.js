@@ -246,7 +246,7 @@ function render() {
     
     document.body.appendChild(container);
 }
-;
+render();
 
 // Tabs
 let tab;
