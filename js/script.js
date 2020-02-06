@@ -30,7 +30,7 @@ function render() {
                                 <li><span>Programming languages and technologies:</span> JavaScript, Python, HTML, HUML, PUG, CSS/SCSS</li>
                                 <li><span>Operating systems</span> Windows, linux</li>
                                 <li><span>Programming practices:</span> Agile, Kanban, Waterfall, Code review</li>
-                                <li><span>Frameworks and Libraries:</span> React, Redux, react-router-dom, lodash, Bootstrap, React Bootstrap, Materialize, face-api.js, Selenium, express, 
+                                <li><span>Frameworks and Libraries:</span> React, Redux, react-router-dom, lodash, normalize.css, Bootstrap, React Bootstrap, Materialize, face-api.js, Selenium, express, 
                                     mongoose, bcrypt, express-validator, short-id, cross-env, react-calendar-heatmap</li>
                                 <li><span>Tools:</span> GIT, Webpack, VS Code, PyCharm, Photoshop, Figma, Expo.</li>
                                 <li><span>Other skills:</span> AutoCAD</li>
