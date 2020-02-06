@@ -83,11 +83,11 @@ span {
     height: 150px;
     background-size: cover;
 }
-.item-1 { background-image: url(../img/DOMcard.gif);}
-.item-2 { background-image: url(../img/LocalStorageForm.gif);}
+.item-1 { background-image: url(../img/loanBuildApp.gif);}
+.item-2 { background-image: url(../img/vkey.jpg);}
 .item-3 { background-image: url(../img/todoJS.gif);}
-.item-4 { background-image: url(../img/EmailForm.gif);}
-.item-5 { background-image: url(../img/insurance.gif);}
+.item-4 { background-image: url(../img/fancy_weather.jpg);}
+.item-5 { background-image: url(../img/short-link.jpg);}
 .item-6 { background-image: url(../img/weekBudget.gif);}
 .item-7 { background-image: url(../img/jsonAPI.gif);}
 .item-8 { background-image: url(../img/kinopoisk.gif);}

@@ -10,56 +10,60 @@ function render() {
                 <div class="tabContent">
                         <time>2019-09-11</time>  
     
-                        <h2>Summary</h2>
-                            <p>
-                               I wish to start a career as a junior javascript developer with 
-                               a modern IT company with career prospects. 
-                               Experience in implementation and administration 
-                               of electronic queue systems and local systems. 
-                               Web-development HTML/CSS. Administration web-sites on WORDPRESS, 
-                               OpenCart and modX platforms. Experience in server stations and CCTV 
-                               systems. Quick learner. I like web design, development and computer security. 
-                               Amateur in chess.
-                            </p>                            
-                        <h2>Skills</h2>
+                        <h2>Kirill Moskalevich</h2>
                             <ul>
-                                <li>Operating systems Windows, linux</li>
-                                <li>JavaScript</li>
-                                <li>React</li>
-                                <li>nodeJS</li>
-                                <li>Database MySQL</li>
-                                <li>Git</li>
-                                <li>Graphic editors</li>
-                                <li>English level A2</li>
+                                <li><span>Telephone number:</span> <a href="tel:+375447504152">+375447504152</a></li>
+                                <li><span>E-mail:</span> <a href="mailto:mosk9364@gmail.com" >mosk9364@gmail.com</a></li>
+                                <li><span>LinkedIn profile:</span> <a href="http://thermoval.akgroup.by/">http://thermoval.akgroup.by/</a></li>
+                                <li><span>job.tut.by</span> <a href="https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159">https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159</a></li>                                
+                                <li><span>Github:</span> <a href="https://github.com/MoskKir" target="_blank">https://github.com/MoskKir</a></li>        
+                                <li><span>English:</span> pre-intermediate (A2+)</li>   
+                            </ul> 
+
+                        <h2>Summary of Qualifications </h2>
+                            <p>
+                                Novice frontend-developer with technical education. Confident knowledge of HTML, 
+                                CSS/SCSS, JavaScript, React, Redux, NodeJS, ReactNative, MySQL, MongoDB, CMS. 
+                            </p>                            
+                        <h2>Technical Skills</h2>
+                            <ul>
+                                <li><span>Programming languages and technologies:</span> JavaScript, Python, HTML, HUML, PUG, CSS/SCSS</li>
+                                <li><span>Operating systems</span> Windows, linux</li>
+                                <li><span>Programming practices:</span> Agile, Kanban, Waterfall, Code review</li>
+                                <li><span>Frameworks and Libraries:</span> React, Redux, react-router-dom, lodash, Bootstrap, React Bootstrap, Materialize, face-api.js, Selenium, express, 
+                                    mongoose, bcrypt, express-validator, short-id, cross-env, react-calendar-heatmap</li>
+                                <li><span>Tools:</span> GIT, Webpack, VS Code, PyCharm, Photoshop, Figma, Expo.</li>
+                                <li><span>Other skills:</span> AutoCAD</li>
                             </ul>                            
                         <h2>Code examples</h2>
                             <div class="row">
                                 <div class="three columns">
                                     <div class="item-list item-1"></div>
-                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/DOMCart/" target="_blank">DOMCart</a>
-                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/blob/master/DOMCart/js/app.js" target="_blank">APP.JS</a>
+                                    <span>URL: </span><a href="http://react-app.akgroup.by/" target="_blank">loanReactApp</a>
+                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/tree/master/loan/src" target="_blank">APP.JS</a>
                                 </div>
                                 <div class="three columns">
                                     <div class="item-list item-2"></div>
-                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/LocalStorageForm/" target="_blank">LocalStorage</a>
-                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/blob/master/LocalStorageForm/assets/js/app.js" target="_blank">APP.JS</a>
+                                    <span>URL: </span><a href="https://moskkir.github.io/codejam-virtual-keyboard/" target="_blank">Virtual Keyboard</a>
+                                    <br>
+                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/codejam-virtual-keyboard/tree/codejam-virtual-keyboard" target="_blank">repo</a>
                                 </div>
                                 <div class="three columns">
                                     <div class="item-list item-3"></div>
-                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/todoJS/" target="_blank">todoJS</a>
+                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/todoJS/" target="_blank">todoJS</a>                                    
                                     <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/blob/master/todoJS/js/app.js" target="_blank">APP.JS</a>
                                 </div>
                                 <div class="three columns">
                                     <div class="item-list item-4"></div>
-                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/email/" target="_blank">EmailForm</a>
-                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/blob/master/email/js/app.js" target="_blank">APP.JS</a>
+                                    <span>URL: </span><a href="https://moskkir.github.io/Fancy-weather/" target="_blank">Fancy weather</a>
+                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/Fancy-weather/tree/work-branch/fancy-weather" target="_blank">repo</a>
                                 </div>
                             </div>
                             <div class="row">
                                 <div class="three columns">
                                     <div class="item-list item-5"></div>
-                                    <span>URL: </span><a href="https://moskkir.github.io/myLernJS/insurance/" target="_blank">CarInsuranse</a>
-                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/blob/master/insurance/js/app.js" target="_blank">APP.JS</a>
+                                    <span>URL: </span><a href="http://moskkir.ru/" target="_blank">Short Link</a>
+                                    <span>GITHUB: </span><a href="https://github.com/MoskKir/short-link-project" target="_blank">repo</a>
                                 </div>                                    
                                 <div class="three columns">
                                     <div class="item-list item-6"></div>
