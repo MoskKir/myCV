@@ -27,7 +27,7 @@ function render() {
                             </p>                            
                         <h2>Technical Skills</h2>
                             <ul>
-                                <li><span>Programming languages and technologies:</span> JavaScript, Python, HTML, HUML, PUG, CSS/SCSS</li>
+                                <li><span>Programming languages and technologies:</span> JavaScript, Python, HTML, Haml, PUG, CSS/SCSS</li>
                                 <li><span>Operating systems</span> Windows, linux</li>
                                 <li><span>Programming practices:</span> Agile, Kanban, Waterfall, Code review</li>
                                 <li><span>Frameworks and Libraries:</span> React, Redux, react-router-dom, lodash, normalize.css, Bootstrap, React Bootstrap, Materialize, face-api.js, Selenium, express, 
