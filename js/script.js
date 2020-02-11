@@ -41,7 +41,7 @@ function render() {
                                 <span>Website@Hackerspace Lab, 01.2020 - now</span>
                                 <br><b>Position: </b>Frontend-developer
                                 <br><b>Project:</b> <a href="https://hackerspace.by/ target="_blank"" >https://hackerspace.by/(in progress)</a>
-                                <br><a href="https://github.com/minsk-hackerspace/hackerspace.by target="_blank"" >https://github.com/minsk-hackerspace/hackerspace.by</a>
+                                <br><a href="https://github.com/minsk-hackerspace/hackerspace.by target="_blank" >https://github.com/minsk-hackerspace/hackerspace.by</a>
                                 <br><b>Responsibilities included:</b>
                                     <ul>
                                         <li>estimations</li>
@@ -50,8 +50,36 @@ function render() {
                                     </ul>
                                 <b>Environment:</b>Ruby on rails, JavaScript, Haml, jQuery
                             </p>
-
-
+                        <h2>Hobby and fun weekend projects</h2>
+                            <h3>MHS</h3>
+                            <a href="https://hackerspace.by/" target="_blank">https://hackerspace.by/</a>
+                            <br>
+                            <span>Project:</span>
+                            MHS: codewars club
+                            <span>Position:</span> members
+                            <span>Achievements:</span>
+                                <ul>
+                                    <li>Level up JavaScript, computer science, Linux skill</li>
+                                    <li>Teamwork</li>
+                                    <li>Communications with qualified developers</li>
+                                </ul>
+                            <h3>AKgroup</h3>
+                            <p>Сo-founder of the company as well сreation, content and administration of sites:</p>
+                                <ul>
+                                    <li><a href="http://akgroup.by/">http://akgroup.by/</a></li>
+                                    <li><a href="http://lepnina.akgroup.by/">http://lepnina.akgroup.by/</a></li>
+                                    <li><a href="http://thermoval.akgroup.by/">http://thermoval.akgroup.by/</a></li>
+                                    <li><a href="http://oracdecor.by/">http://oracdecor.by/</a></li>        
+                                </ul>
+                        <h2>Education</h2>
+                            <ul>
+                                <li>The Rolling Scopes School </li>
+                                <li>Programmable logic controllers WAGO I/O, FASTWEL I/O» (basic course)</li>
+                                <li>Design basics SCADA on base GENESIS 32 V9(ICONICS)» (basic course) </li>
+                            </ul>
+                            <span>Yaroslavl Urban Planning College, Yaroslavl, Russia (Automated Information Systems)</span>
+                            <br>
+                            <span>‘Uncompleted’ Yaroslavl State Pedagogical University named after K.D.Ushinsky (Computer Science)</span>
                         <h2>Code examples</h2>
                             <div class="row">
                                 <div class="three columns">
@@ -141,29 +169,7 @@ function render() {
                                     <span>URL: </span><a href="http://react-app.akgroup.by/" target="_blank">loanReactApp</a>
                                     <span>GITHUB: </span><a href="https://github.com/MoskKir/myLernJS/tree/master/loan/src" target="_blank">APP.JS</a>
                                 </div>
-                            </div>
-                                                      
-                        <h2>Experience</h2>
-                            <span>Yaroslavl, Russia</span>
-                            <p>Worked in the company as a technician of Automated Information Systems</p>
-                            <span>Minsk, Belarus</span>
-                            <p>Сo-founder of the company as well сreation, content and administration of sites:</p>
-                            <ul>
-                                <li><a href="http://akgroup.by/">http://akgroup.by/</a></li>
-                                <li><a href="http://lepnina.akgroup.by/">http://lepnina.akgroup.by/</a></li>
-                                <li><a href="http://thermoval.akgroup.by/">http://thermoval.akgroup.by/</a></li>
-                                <li><a href="http://oracdecor.by/">http://oracdecor.by/</a></li>
-                                <li><a href="http://videovminske.by/">http://videovminske.by/</a></li>        
-                            </ul>                            
-                        <h2>Education</h2>
-                            <ul>
-                                <li></li>
-                            </ul>
-                        <h3>Additional education:</h3>
-                            <ul>
-                                <li>Programmable logic controllers WAGO I/O, FASTWEL I/O» (basic course) ООО “Прософт”</li>
-                                <li>Design basics SCADA on base GENESIS 32 V9(ICONICS)» (basic course) ООО “Прософт”</li>
-                            </ul>                       
+                            </div>                
                     </div>
                 <div class="tabContent">
                         <div class="row">
