@@ -8,14 +8,14 @@ function render() {
                 <div class="tab whiteborder">profile</div>                    
                 <div class="tab">unusual sites</div>
                 <div class="tabContent">
-                        <time>2019-09-11</time>  
+                        <time>2019-02-14</time>  
     
                         <h2>Kirill Moskalevich</h2>
                             <ul>
                                 <li><span>Telephone number:</span> <a href="tel:+375447504152">+375447504152</a></li>
                                 <li><span>E-mail:</span> <a href="mailto:mosk9364@gmail.com" >mosk9364@gmail.com</a></li>
-                                <li><span>LinkedIn profile:</span> <a href="http://thermoval.akgroup.by/">http://thermoval.akgroup.by/</a></li>
-                                <li><span>job.tut.by</span> <a href="https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159">https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159</a></li>                                
+                                <li><span>LinkedIn profile:</span> <a href="https://www.linkedin.com/in/moskkir/" target="_blank">https://www.linkedin.com/in/moskkir/</a></li>
+                                <li><span>job.tut.by</span> <a href="https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159" target="_blank">https://jobs.tut.by/resume/8371d52bff07594fce0039ed1f3049464b3159</a></li>                                
                                 <li><span>Github:</span> <a href="https://github.com/MoskKir" target="_blank">https://github.com/MoskKir</a></li>        
                                 <li><span>English:</span> pre-intermediate (A2+)</li>   
                             </ul> 
