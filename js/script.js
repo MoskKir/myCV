@@ -1,4 +1,3 @@
-// Render 
 function render() {
     const container = document.createElement('div');
     container.innerHTML = `<div class="container nav">        
