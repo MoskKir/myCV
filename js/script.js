@@ -76,9 +76,9 @@ function render() {
                                 <li>Programmable logic controllers WAGO I/O, FASTWEL I/O» (basic course)</li>
                                 <li>Design basics SCADA on base GENESIS 32 V9(ICONICS)» (basic course) </li>
                             </ul>
-                            <span>Yaroslavl Urban Planning College, Yaroslavl, Russia (Automated Information Systems)</span>
+                            <span>Automated Information Systems</span>
                             <br>
-                            <span>‘Uncompleted’ Yaroslavl State Pedagogical University named after K.D.Ushinsky (Computer Science)</span>
+                            <span>‘Uncompleted’ Computer Science</span>
                         <h2>Code examples</h2>
                             <div class="row">
                                 <div class="three columns">
