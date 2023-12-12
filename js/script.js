@@ -1,4 +1,3 @@
-// Render 
 function render() {
     const container = document.createElement('div');
     container.innerHTML = `<div class="container nav">        
@@ -231,10 +230,7 @@ function render() {
                     </ul>
                     <h2>Contacts</h2>
                     <ul>
-                        <li><i class="fas fa-at"></i> <a href="mailto:mosk9364@gmail.com" >mosk9364@gmail.com</a></li>
-                        <li><i class="fas fa-paper-plane"></i> <a href="https://t.me/JoniJonson" >Telegram</a></li>
-                        <li><i class="fas fa-phone-square-alt"></i> <a href="tel:+375447504152">+375447504152</a></li>
-                        
+                        <li><i class="fas fa-at"></i> <a href="mailto:mosk9364@gmail.com" >mosk9364@gmail.com</a></li>                        
                     </ul>
                     
             </div>  
