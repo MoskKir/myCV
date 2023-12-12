@@ -281,6 +281,21 @@ let tabContent;
 window.onload = function () {
     tabContent = document.getElementsByClassName('tabContent');
     tab = document.getElementsByClassName('tab');
+    
+    document.getElementById('tabs').onclick = function (event) {
+        let target = event.target;
+        
+        if (target.className == 'tab') {
+            for (let i = 0; i < tab.length; i++) {
+                
+                if (target == tab[i]) {
+                    showTabsContent(i);
+                    break;    
+                }
+            }
+        }
+    }
+    
     hideTabsContent(1);
 }
 
@@ -289,20 +304,6 @@ function hideTabsContent(a) {
         tabContent[i].classList.remove('show');
         tabContent[i].classList.add('hide');
         tab[i].classList.remove('whiteborder');
-    }
-}
-
-document.getElementById('tabs').onclick = function (event) {
-    let target = event.target;
-    
-    if (target.className == 'tab') {
-        for (let i = 0; i < tab.length; i++) {
-            
-            if (target == tab[i]) {
-                showTabsContent(i);
-                break;    
-            }
-        }
     }
 }
 
